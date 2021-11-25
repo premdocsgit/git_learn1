@@ -1,2 +1,3 @@
 first line 
 second line
+restore check for local repository
